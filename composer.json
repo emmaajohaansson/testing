@@ -1,0 +1,19 @@
+{
+    "name": "mau/testing",
+    "description": "Testing package for lab 1",
+    "type": "project",
+    "require": {
+        "catfan/medoo": "^1.2",
+        "slim/slim": "^3.9",
+        "monolog/monolog": "^1.23"
+    },
+
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Emma Johansson Vikström",
+            "email": "emmakristina95@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
