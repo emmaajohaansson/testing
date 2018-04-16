@@ -1,6 +1,6 @@
 {
     "name": "mau/testing",
-    "description": "Testing package for lab 1",
+    "description": "Testing package for lab 1 and maybe assignment 1",
     "type": "project",
     "require": {
         "catfan/medoo": "^1.2",

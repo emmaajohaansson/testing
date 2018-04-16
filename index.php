@@ -1,4 +1,3 @@
-/*This is the index.php-file of lab 1 and 2*/
 <?php
   require 'vendor/autoload.php';
 
@@ -21,6 +20,7 @@
 <!DOCTYPE html>
   <html>
     <head>
+    <link rel="stylesheet" type="text/css" href="background.css">
     <title>Testing, testing</title>
     </head>
     <body>
